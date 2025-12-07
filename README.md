@@ -25,4 +25,4 @@ cd ~/IsaacLab
 ## Files
 
 - `ant.zip` : Isaac Lab Ant 환경 및 PPO 설정 파일을 모아둔 압축 파일
-- `강화학습프로젝트_14조.pptx` : 프로젝트 발표용 슬라이드
+- `강화학습프로젝트_14조.pptx` : 프로젝트 보고서
