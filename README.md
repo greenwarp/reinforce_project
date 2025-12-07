@@ -1,3 +1,5 @@
+이 저장소는 Isaac Lab Ant 환경에서 PPO를 학습한 강화학습개론 프로젝트의 코드/설정 및 발표자료를 포함한다.
+
 # reinforce_project
 # Isaac Lab Ant PPO Project
 
@@ -19,3 +21,8 @@ cd ~/IsaacLab
 # 텐서보드(그래프) 실행
 
 ./isaaclab.sh -p -m tensorboard.main --logdir logs/robomimic/ant
+
+## Files
+
+- `ant.zip` : Isaac Lab Ant 환경 및 PPO 설정 파일을 모아둔 압축 파일
+- `강화학습프로젝트_14조.pptx` : 프로젝트 발표용 슬라이드
